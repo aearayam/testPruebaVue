@@ -17,6 +17,9 @@
                             <div v-if="loading" class="spinner-border text-success" role="status">
                                 <span class="visually-hidden">Loading...</span>
                             </div>
+                            <div>
+                                adassddsdsads
+                            </div>
                         </div>
                         <h5 v-if="listTareas.length == 0">No hay tareas por hacer.</h5>
                         <ul v-if="!loading" class="list-group">
