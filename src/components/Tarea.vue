@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="display-4 text-center">Listado de Tareas</h1>
+        <h1 class="display-4 text-center">Listado de Tareas: </h1>
         <hr>
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
